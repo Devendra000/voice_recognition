@@ -234,7 +234,7 @@ if __name__ == '__main__':
             try:
                 os.system('cmd /c "shutdown -s -t 1800"')
                 speak(
-                    'Good night... By the way I\'m sure Manu loves you as much as you do her. SLEEP TIGHT, SIR!')
+                    'Good night... SLEEP TIGHT, SIR!')
                 speak('Well I\'ll be up for some time')
                 speak('You can cancel shutdown process if needed within 41 minutes. Say Shutdown immediately for '
                       'immediate shutdown')
